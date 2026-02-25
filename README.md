@@ -1,1 +1,1 @@
-# practise-code
+This is my first practice repository on GitHub.
